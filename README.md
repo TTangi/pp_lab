@@ -8,5 +8,5 @@ Repo for pp_lab_4
 'pipenv install --flask 0.12.1' - для встановлення фласка
 
 'pipenv install --python 3.7.2' - для встановлення пайтона
-#1
+
 
